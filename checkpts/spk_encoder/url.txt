@@ -1,0 +1,1 @@
+https://github.com/huawei-noah/Speech-Backbones/blob/main/DiffVC/checkpts/spk_encoder/pretrained.pt
